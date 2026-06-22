@@ -1,0 +1,105 @@
+# תמרא — Generative Engine Optimization Map
+
+> An online store specializing in headscarves (מטפחות), focused on e-commerce sales. The business appears to be in the fashion accessories space, likely targeting women who wear headscarves for religious, cultural, or fashion purposes. The specific niche and brand personality require further clarification.
+
+---
+
+## Pages
+
+### בית
+https://-47eb68f5.zappy5.app
+חנות אונליין מובילה למטפחות לנשים דתיות ולאמהות צעירות. קולקציית מטפחות מודרניות שמשדרות סטייל, נוחות ואיכות. היכנסי עכשיו להתאהב בכל פריט מחדש — תמרא.
+
+### שירותים
+https://-47eb68f5.zappy5.app/services
+מחפשת את המטפחת המושלמת? גלי שירותי סטיילינג, מדידות וירטואליות ומשלוח מהיר עד הבית. אנחנו כאן כדי להפוך כל רכישה לחוויה קלה ומדויקת. דברי איתנו עוד היום — תמרא.
+
+### אודות
+https://-47eb68f5.zappy5.app/about
+תמרא נולדה מאהבה לצניעות ואופנה. אנחנו יוצרים מטפחות לנשים דתיות שמחברות בין מסורת למודרניות, עם דגש על איכות ועיצוב שמדבר אלייך. בואי לקרוא את הסיפור המלא שלנו — תמרא.
+
+### צור קשר
+https://-47eb68f5.zappy5.app/contact
+רוצה להתאים מטפחת לאירוע מיוחד או סתם להתייעץ? כתבי לנו הודעה ונחזור אלייך במהירות עם חיוך ותשובה. צרי קשר עכשיו ונתחיל לעצב יחד את הלוק הבא שלך — תמרא.
+
+### Products
+https://-47eb68f5.zappy5.app/products
+המוצרים שלנו - תמרא
+
+### Cart
+https://-47eb68f5.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-47eb68f5.zappy5.app/checkout
+תשלום
+
+### Login
+https://-47eb68f5.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-47eb68f5.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-47eb68f5.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-47eb68f5.zappy5.app/product/:slug
+פרטי המוצר - תמרא
+
+### Category
+https://-47eb68f5.zappy5.app/category/:slug
+מוצרים - תמרא
+
+### תודה רבה | תמרא
+https://-47eb68f5.zappy5.app/thank-you
+תודה שפנית לתמרא. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-47eb68f5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-47eb68f5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-47eb68f5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תמרא
+An online store specializing in headscarves (מטפחות), focused on e-commerce sales. The business appears to be in the fashion accessories space, likely targeting women who wear headscarves for religious, cultural, or fashion purposes. The specific niche and brand personality require further clarification.
+
+## Target Audience
+- נשים דתיות עירוניות
+- אמהות צעירות ומודרניות
+- בלוגריות אופנה
+- נשים דתיות
+
+## Industry
+E-commerce / Fashion Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-47eb68f5.zappy5.app/sitemap.xml
+- Robots: https://-47eb68f5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-47eb68f5.zappy5.app/llms-full.txt
+- Products (JSON): https://-47eb68f5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-47eb68f5.zappy5.app/product-feed.xml
