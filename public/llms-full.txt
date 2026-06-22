@@ -2,13 +2,13 @@
 
 An online store specializing in headscarves (מטפחות), focused on e-commerce sales. The business appears to be in the fashion accessories space, likely targeting women who wear headscarves for religious, cultural, or fashion purposes. The specific niche and brand personality require further clarification.
 
-Source: https://-47eb68f5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את הקסם שבכיסוי — מטפחות מעוצבות — תמרא
 
-URL: https://-47eb68f5.zappy5.app
+URL: https://example.com
 Description: חנות אונליין מובילה למטפחות לנשים דתיות ולאמהות צעירות. קולקציית מטפחות מודרניות שמשדרות סטייל, נוחות ואיכות. היכנסי עכשיו להתאהב בכל פריט מחדש — תמרא.
 
 גלי את הקסם שבכיסוי — מטפחות מעוצבות — תמרא
@@ -426,7 +426,7 @@ Description: חנות אונליין מובילה למטפחות לנשים דת
 
 ## השירות שמבין מה את צריכה — ייעוץ והתאמה אישית — תמרא
 
-URL: https://-47eb68f5.zappy5.app/services
+URL: https://example.com/services
 Description: מחפשת את המטפחת המושלמת? גלי שירותי סטיילינג, מדידות וירטואליות ומשלוח מהיר עד הבית. אנחנו כאן כדי להפוך כל רכישה לחוויה קלה ומדויקת. דברי איתנו עוד היום — תמרא.
 
 השירות שמבין מה את צריכה — ייעוץ והתאמה אישית — תמרא
@@ -721,7 +721,7 @@ Description: מחפשת את המטפחת המושלמת? גלי שירותי ס
 
 ## מאחורי כל קפל יש סיפור — הכירי את תמרא
 
-URL: https://-47eb68f5.zappy5.app/about
+URL: https://example.com/about
 Description: תמרא נולדה מאהבה לצניעות ואופנה. אנחנו יוצרים מטפחות לנשים דתיות שמחברות בין מסורת למודרניות, עם דגש על איכות ועיצוב שמדבר אלייך. בואי לקרוא את הסיפור המלא שלנו — תמרא.
 
 מאחורי כל קפל יש סיפור — הכירי את תמרא
@@ -1051,7 +1051,7 @@ Description: תמרא נולדה מאהבה לצניעות ואופנה. אנח�
 
 ## יש לך שאלה? בואי נדבר — צרי קשר עוד היום — תמרא
 
-URL: https://-47eb68f5.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצה להתאים מטפחת לאירוע מיוחד או סתם להתייעץ? כתבי לנו הודעה ונחזור אלייך במהירות עם חיוך ותשובה. צרי קשר עכשיו ונתחיל לעצב יחד את הלוק הבא שלך — תמרא.
 
 יש לך שאלה? בואי נדבר — צרי קשר עוד היום — תמרא
@@ -1346,7 +1346,7 @@ Description: רוצה להתאים מטפחת לאירוע מיוחד או סת�
 
 ## מוצרים
 
-URL: https://-47eb68f5.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - תמרא
 
 מוצרים - תמרא
@@ -1593,7 +1593,7 @@ Description: המוצרים שלנו - תמרא
 
 ## עגלת קניות
 
-URL: https://-47eb68f5.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - תמרא
@@ -1816,7 +1816,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-47eb68f5.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - תמרא
@@ -2225,7 +2225,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-47eb68f5.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - תמרא
@@ -2455,7 +2455,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-47eb68f5.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - תמרא
@@ -2840,7 +2840,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-47eb68f5.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - תמרא
@@ -3087,7 +3087,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-47eb68f5.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - תמרא
@@ -3363,7 +3363,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-47eb68f5.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - תמרא
 
 פרטי המוצר - תמרא
@@ -3588,7 +3588,7 @@ Description: פרטי המוצר - תמרא
 
 ## מוצרים
 
-URL: https://-47eb68f5.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - תמרא
 
 מוצרים - תמרא
@@ -3837,7 +3837,7 @@ Description: מוצרים - תמרא
 
 ## מדיניות פרטיות
 
-URL: https://-47eb68f5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4104,7 +4104,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-47eb68f5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4380,7 +4380,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-47eb68f5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4675,7 +4675,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | תמרא
 
-URL: https://-47eb68f5.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית לתמרא. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
 
 תודה רבה | תמרא
